@@ -1,5 +1,5 @@
 # Introduction
-This is the source code of our TCSVT 2019 paper "Reinforced Cross-Media Correlation Learning by Context-Aware Bidirectional Translation". Please cite the following paper if you use our code.
+This is the source code of our TCSVT 2020 paper "Reinforced Cross-Media Correlation Learning by Context-Aware Bidirectional Translation". Please cite the following paper if you use our code.
 
 Yuxin Peng and Jinwei Qi, "Reinforced Cross-Media Correlation Learning by Context-Aware Bidirectional Translation", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Vol. 30, No. 6, pp. 1718-1731, Jun. 2020.(SCI, EI)
 
